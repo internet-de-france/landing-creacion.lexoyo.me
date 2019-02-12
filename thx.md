@@ -1,7 +1,7 @@
 ---
-title: Contact
-layout: default
+title: Thank you
 lang: en
+layout: default
 ---
 
 ## Contact request received
