@@ -1,10 +1,7 @@
 ---
 title: contact
-lang: fr
+date: 2019-02-13 00:00:00 +01:00
+layout: default
 ---
 
-### Contact
-
-Tel: +33676683806
-
-Email: contact@cto-bro.com
+aaa

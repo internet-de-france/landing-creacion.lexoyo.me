@@ -1,10 +1,7 @@
 ---
 title: links
-lang: en
+date: 2019-02-13 00:01:00 +01:00
+layout: default
 ---
 
-### Our links
-
-[Corporate website](https://cto-bro.com).
-
-[Alex Hoyau, founder and CEO](https://www.linkedin.com/in/webappdev/).
+links
