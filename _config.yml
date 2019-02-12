@@ -19,7 +19,6 @@ plugins:
 email: 
 description: 
 url: https://cto-bro.com
-keywords: []
 markdown: kramdown
 highlighter: rouge
 excerpt_separator: "<!--more-->"
@@ -31,20 +30,9 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 owner:
-  name: 
-  avatar: 
-  job: 
-  bio: 
-  email: 
   disqus-shortname: 
   twitter: 
   facebook: 
-  google:
-    plus: 
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
   bing-verify: 
   github: 
   gitlab: 
