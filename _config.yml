@@ -5,6 +5,9 @@ collections:
   header:
     title: Header - la oferta
     output: true
+  planes:
+    title: Planes
+    output: true
   posts:
     title: Posts
     output: true
