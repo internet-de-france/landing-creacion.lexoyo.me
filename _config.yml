@@ -5,14 +5,14 @@ collections:
   header:
     title: Header
     output: true
+  params:
+    title: Params
+    output: true
   planes:
     title: Planes
     output: true
   posts:
     title: Posts
-    output: true
-  params:
-    title: SEO
     output: true
   sobre-nosotros:
     title: Sobre nosotros
