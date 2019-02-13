@@ -1,5 +1,5 @@
 ---
-title: Landing Creacion
+title: Landing  Page Creacion
 timezone: Europe/Paris
 collections:
   header:
@@ -22,8 +22,3 @@ collections:
     output: true
 plugins:
 - jekyll-sitemap
-description: 'Consigue mejores resultados en tus campañas de marketing con landing
-  pages. Construimos cada una de las páginas con un diseño exclusivo y acorde a tu
-  marca.
-
-'
