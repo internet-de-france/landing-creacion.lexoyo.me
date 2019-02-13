@@ -3,7 +3,7 @@ title: Landing  Page Creacion
 timezone: Europe/Paris
 collections:
   header:
-    title: Header - la oferta
+    title: Header
     output: true
   planes:
     title: Planes
