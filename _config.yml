@@ -11,7 +11,7 @@ collections:
   posts:
     title: Posts
     output: true
-  seo:
+  landing-page-params:
     title: SEO
     output: true
   sobre-nosotros:
