@@ -1,5 +1,5 @@
 ---
-title: CTO, bro
+title: Landing page personalizada y editable
 seo-description: 'Consigue mejores resultados en tus campañas de Marketing con landing
   pages. Construimos cada una de las páginas con un diseño exclusivo y acorde a Tu
   marca. Convierte tus visitantes en clientes. '
