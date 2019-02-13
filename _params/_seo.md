@@ -1,5 +1,5 @@
 ---
-title: description
+title: SEO
 date: 2019-02-13 23:00:00 +01:00
 ---
 
