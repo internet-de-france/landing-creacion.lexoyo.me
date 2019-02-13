@@ -2,6 +2,9 @@
 title: Landing Creacion
 timezone: Europe/Paris
 collections:
+  header:
+    title: Header
+    output: true
   posts:
     title: Posts
     output: true
