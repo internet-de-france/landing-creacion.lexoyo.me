@@ -11,6 +11,9 @@ collections:
   posts:
     title: Posts
     output: true
+  seo:
+    title: SEO
+    output: true
   sobre-nosotros:
     title: Sobre nosotros
     output: true
