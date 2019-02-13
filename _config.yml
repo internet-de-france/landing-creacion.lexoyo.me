@@ -2,9 +2,6 @@
 title: Landing Creacion
 timezone: Europe/Paris
 collections:
-  people:
-    title: People
-    output: false
   posts:
     title: Posts
     output: true
