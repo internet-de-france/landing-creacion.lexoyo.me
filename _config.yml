@@ -1,21 +1,24 @@
 ---
-title: Landing Creacion
+title: Landing  Page Creacion
 timezone: Europe/Paris
 collections:
-  people:
-    title: People
-    output: false
+  header:
+    title: Header
+    output: true
+  planes:
+    title: Planes
+    output: true
   posts:
     title: Posts
     output: true
-  sections:
-    title: Sections
-    output: false
+  params:
+    title: SEO
+    output: true
+  sobre-nosotros:
+    title: Sobre nosotros
+    output: true
   uploads:
     title: Uploads
     output: true
 plugins:
 - jekyll-sitemap
-description: "Consigue mejores resultados en tus campañas de Marketing con landing
-  pages. Construimos cada una de las páginas con un diseño exclusivo y acorde a Tu
-  marca. Convierte tus visitantes en clientes. \n"
