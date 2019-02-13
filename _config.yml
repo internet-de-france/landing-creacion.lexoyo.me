@@ -3,7 +3,7 @@ title: Landing Creacion
 timezone: Europe/Paris
 collections:
   header:
-    title: Header
+    title: Header - la oferta
     output: true
   posts:
     title: Posts
