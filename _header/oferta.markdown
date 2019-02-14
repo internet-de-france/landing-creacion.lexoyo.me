@@ -3,7 +3,7 @@ title: oferta
 date: 2019-02-13 23:10:00 +01:00
 ---
 
-## Landing page que convierta
+## Landing pages que convierta
 
 Consigue mejores resultados en tus campañas de marketing con landing pages. Construimos cada una de las páginas con un diseño exclusivo y acorde a tu marca. Convierte tus visitantes en clientes. 
 
