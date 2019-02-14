@@ -2,6 +2,7 @@
 title: Basic
 date: 2019-02-14 00:03:00 +01:00
 price: MX$ 700
+cta: Obtener ahora
 ---
 
 ¡Aumenta tus ventas hoy!
