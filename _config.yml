@@ -5,7 +5,7 @@ collections:
   header:
     title: Header
     output: true
-  sobre-nosotros:
+  nosotros:
     title: Nosotros
     output: true
   params:
