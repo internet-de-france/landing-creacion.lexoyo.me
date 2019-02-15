@@ -2,6 +2,9 @@
 title: Landing  Page Creacion
 timezone: Europe/Paris
 collections:
+  footer:
+    title: Footer
+    output: true
   header:
     title: Header
     output: true
