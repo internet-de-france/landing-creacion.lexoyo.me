@@ -15,6 +15,6 @@ herramientas de marketing, incluyendo Google analytics y Facebook pixel, para po
 
 Realiza AB testing de una forma más sencilla para optimizar tus campañas y conseguir mayores ventas
 
-## Toma tu independencia
+## Edita facilmente tu landing page
 
 Con nuestra oferta premium tendrá un Back Office, lo que significa que tú podrás modificar tu landing page  cuando quieras de una manera muy sencilla, sin necesidad de saber nada de programación.
