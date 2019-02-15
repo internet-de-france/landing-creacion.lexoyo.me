@@ -5,8 +5,7 @@ date: 2019-02-13 23:10:00 +01:00
 
 ## Landing pages que convierten
 
-Consigue mejores resultados en tus campañas de marketing con landing pages. 
-
+Consigue mejores resultados en tus campañas de marketing con landing pages. \
 Construimos cada una de las páginas con un diseño exclusivo y acorde a tu marca. Convierte tus visitantes en clientes.
 
 ## Todo incluido
