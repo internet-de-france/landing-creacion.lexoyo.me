@@ -61,6 +61,7 @@ setTimeout(function() {
 }, 500)
 }
 function sendConversion() {
+if(console) console.log('send conversion');
   gtag('event', 'conversion', {'send_to': 'AW-1060563675/8phqCLHRrpUBENvV2_kD'});
 }
 </script>
