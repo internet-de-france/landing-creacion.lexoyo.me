@@ -65,7 +65,6 @@ if(console) console.log('send conversion');
 setTimeout(function() {
 window.location.href = '/thx.html';
 }, 1500)
-  gtag('event', 'conversion', {'send_to': 'AW-1060563675/8phqCLHRrpUBENvV2_kD'});
-
+  dataLayer.push({'event': 'submission'});
 }
 </script>
