@@ -6,7 +6,7 @@ description-tag: 'Consigue mejores resultados en tus campañas de marketing con 
   marca.
 
 '
-title-tag: Landing page personalizada y editable, optimizada para campañas de marketing.
+title-tag: Landing page personalizada para campañas de marketing.
 preview-image: "/uploads/favicon.png"
 lang: es
 ---
