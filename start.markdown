@@ -64,7 +64,7 @@ function sendConversion() {
 if(console) console.log('send conversion');
 setTimeout(function() {
 window.location.href = '/thx.html';
-}, 1000)
+}, 500)
   window.dataLayer.push({
     'event': 'submission',
     'plan': window.location.search
