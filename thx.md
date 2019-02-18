@@ -4,12 +4,12 @@ lang: en
 layout: default
 ---
 
-## Contact request received
+## Solicitud recibida
 
-Thank you for your interest, we will contact you within 24h. You can also [call Alex Hoyau (+33 6 76 68 38 06)](tel:+33676683806) or [email him (alex@cto-bro.com)](mailto:alex@cto-bro.com).
+Gracias por su interés, nos pondremos en contacto con usted dentro de las 24 horas para recopilar la información y comenzar a crear su página.
 
-<br><br><br><br>
+Por favor prepare estos artículos para una mayor capacidad de respuesta:
 
-## Demande de contact reçue
-
-Merci de votre intérêt, nous vous contacterons dans les 24h. Vous pouvez aussi [appeler Alex Hoyau (06 76 68 38 06)](tél.: +33676683806) ou [lui écrire (alex@cto-bro.com)](mailto: alex@cto-bro.com).
+* contenido de texto que puedes modificar mas tarde,
+* enlaces a tus redes sociales,
+* la lista de sus herramientas de marketing : Google Analytics, Facebook pixel...
