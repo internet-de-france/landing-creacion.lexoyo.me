@@ -1,3 +1,3 @@
-# cto-bro.com
+# https://landing-creacion.lexoyo.me/
 
-![cto bro website status](http://monitoshi.lexoyo.me/badge/1549656282912-5763)
+![website status](https://monitoshi.lexoyo.me/badge/1550681615024-526)
