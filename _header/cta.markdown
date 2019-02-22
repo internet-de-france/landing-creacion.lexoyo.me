@@ -9,4 +9,4 @@ Landing page personalizada y editable, optimizada para campañas de marketing. O
 
 **Desde MX$ 999**
 
-[Comprar ahora !](#plans)
+[.](./start.html?standard)
