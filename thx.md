@@ -6,10 +6,12 @@ layout: default
 
 ## Solicitud recibida
 
-Gracias por su interés, nos pondremos en contacto con usted dentro de las 24 horas para recopilar la información y comenzar a crear su página.
+Gracias por su interés. Favor de revisar la bandeja de entrada del mail con el que se suscribió, ahí encontrará un mail nuestro para continuar su proceso de creación de landingpage. Recuerde que puede estar en la bandeja de no deseados.
 
-Por favor prepare estos artículos para una mayor capacidad de respuesta:
+Los elementos que necesitamos para comenzar a trabajar son los siguientes:
 
 * contenido de texto que puedes modificar mas tarde,
 * enlaces a tus redes sociales,
 * la lista de sus herramientas de marketing : Google Analytics, Facebook pixel...
+
+Gracias, estamos muy contentos de trabajar con usted.
