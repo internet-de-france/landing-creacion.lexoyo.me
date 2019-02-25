@@ -13,3 +13,5 @@ Los elementos que necesitamos para comenzar a trabajar son los siguientes:
 * contenido de texto que puedes modificar mas tarde,
 * enlaces a tus redes sociales,
 * la lista de sus herramientas de marketing : Google Analytics, Facebook pixel...
+
+Gracias, estamos muy contentos de trabajar con usted.
